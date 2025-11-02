@@ -1,8 +1,8 @@
 package model;
 
 public class Account {
-    private int accountNumber;
-    private String name;
+    private final int accountNumber;
+    private final String name;
     private String pin;
     private double balance;
 
