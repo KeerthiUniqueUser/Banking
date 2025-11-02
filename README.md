@@ -29,6 +29,30 @@ This project simulates basic banking operations such as creating accounts, loggi
 - **Modular Programming** using Packages
 
 ---
+## sample console flow
+=== Welcome to Simple Bank ===
+1. Create Account
+2. Login
+3. Exit
+Enter choice: 1
+Enter your name: Keerthi
+Set 4-digit PIN: 1234
+Account created successfully! Your Account No: 1001
 
-## 🗂️ Project Structure
+1. Create Account
+2. Login
+3. Exit
+Enter choice: 2
+Enter Account No: 1001
+Enter PIN: 1234
+Welcome, Keerthi!
+
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Logout
+Choose option: 1
+Enter amount: 5000
+Deposited ₹5000
+
 
